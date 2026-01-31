@@ -1,16 +1,14 @@
 # calculadora_imc
 
-A new Flutter application.
+Nova aplicação Flutter para a trilha DIO.
 
-## Getting Started
+## Sobre o projeto
 
-This project is a starting point for a Flutter application.
+Este projeto é um ponto de partida para uma aplicação Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Alguns recursos para você começar, caso este seja seu primeiro projeto Flutter:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+- [Flutter documentation](https://docs.flutter.dev/)
+- [Official Flutter YouTube channel](https://www.youtube.com/@flutterdev)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Para obter ajuda nos primeiros passos com o Flutter, consulte a [online documentation](https://flutter.io/docs), que oferece tutoriais, exemplos, orientações sobre desenvolvimento mobile e uma referência completa da API.
